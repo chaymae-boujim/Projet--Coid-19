@@ -1,0 +1,47 @@
+.globbgraph {
+    width: 97.5%;
+    height: 645px;
+    margin: 25px;
+    margin-top: 10px;
+}
+.tocontrolmyGraph {
+    display: flex;
+}
+.myoption{
+    width: 160!important;
+    color: #fff;
+    background-color: #141414;
+    padding: .9rem 1rem;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: .4rem;
+    position: relative;
+    text-align: center!important;
+    font-size: 85%;
+    font-weight: 400;
+    font-family: Karla,sans-serif;
+    margin-right: 8px;
+}
+option {
+        border: 1px solid rgb(255, 255, 255);
+}
+.sectt {
+    cursor: pointer;
+    width: 80%!important;
+    color: #fff;
+    background-color: #141414;
+    padding: .9rem 1rem;
+    border: 1px solid hsla(0,0%,100%,.25);;
+    border-radius: .4rem;
+    position: relative;
+    text-align: center!important;
+    font-size: 85%;
+    font-weight: 400;
+    font-family: Karla,sans-serif;
+}
+.resultGraph {
+    margin-top: 15px !important;
+    max-width: 900px;
+    border: 1.5px solid hsla(0,0%,100%,.25);
+    border-radius: .3rem;
+    height: 78%;
+}

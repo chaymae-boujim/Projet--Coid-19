@@ -1,0 +1,70 @@
+.mycases {
+    display: flex;
+}
+.miniintro{
+    margin-right: 37px;
+    text-align: right!important;
+    color: #fff!important;
+    font-family: Karla,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.blocks  {
+    width: 187px;
+    height: 74px;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: 1px solid hsla(0,0%,100%,.1);
+    border-radius: .3rem;
+    margin-left: 27px;
+    padding-top: 17px;
+
+}
+.dayago {
+    padding-left: 3px;
+    padding-top: 5px;
+    font-size: .80rem;
+    font-family: Karla,sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    color: rgb(173, 167, 167)
+}
+.cblanc {
+    background-color: white !important;
+}
+.cvert {
+    background-color: rgb(71, 201, 71) !important;
+}
+.crouge {
+    background-color: red !important;
+}
+.total , .blocks{
+    padding-left: 13px;
+    font-size: .85rem;
+    font-family: Karla,sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    color: rgb(173, 167, 167)
+}
+.bg-warning {
+    background-color: #1eadb6;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    border-radius: 100%;
+}
+.totocase {
+    margin-bottom: 10px;
+}
+.inline-block {
+    display: flex;
+    font-size: 1.28rem;
+    margin-left: 20px;
+    font-family: monospace;
+    font-weight: 700;
+    margin-top: .5rem!important;
+    line-height: 1.2;
+    color: #fff;
+}

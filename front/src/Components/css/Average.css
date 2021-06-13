@@ -1,0 +1,79 @@
+.myAverage {
+    margin-top: 20px;
+    display: flex;
+    
+}
+.changeIn {
+    width: 431px;
+    height: 166px;
+    background-clip: border-box;
+    border: 1px solid hsla(0,0%,100%,.1);
+    border-radius: .3rem;
+    margin-left: 27px;
+    padding-top: 17px;
+}
+.sametil {
+    margin-left:30px;
+    font-size: .80rem;
+    font-family: Karla,sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    color: gray;
+}
+.titleone ,.tothebar, .titiletwo , .titlethree {
+    margin-bottom: 24px;
+    display: flex;
+}
+.titleone .lefthand{
+    margin-right: 145px;
+}
+.titiletwo .lefthand{
+    margin-right: 130px;
+}
+.titlethree .lefthand{
+    margin-right: 132px;
+}
+
+.barr { 
+    width: 26.98%;
+    height: 20px;
+    background-color: orange;
+    margin-right: 80px;
+ }
+ .tothebar {
+    width: 85%;
+    height: 20px;
+    border: 1px solid rgb(142, 140, 140);
+    background-color: transparent;
+    margin-left: 30px;
+ }
+ .barra {
+    width: 20.45%;
+    height: 20px;
+    background-color: greenyellow;
+ }
+.samenum{
+    text-transform: uppercase;
+    line-height: 1.2;
+    font-family: IBM Plex Sans,monospace;
+    font-weight: 800;
+    color: #fff;
+    font-size: .88rem;
+}
+.righthanda{
+    text-transform: uppercase;
+    line-height: 1.2;
+    font-family: IBM Plex Sans,monospace;
+    font-weight: 400;
+    color: #fff;
+    font-size: .74rem;
+}
+.sl {
+    margin-right: 3px;
+}
+.sp {
+    margin-right: 160px !important;
+}
+.sq {
+    margin-right: 170px !important;
+}
